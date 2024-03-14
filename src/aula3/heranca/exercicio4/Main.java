@@ -1,4 +1,4 @@
-package aula3.exercicio4;
+package aula3.heranca.exercicio4;
 
 public class Main {
     public static void main(String[] args) {

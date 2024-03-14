@@ -1,4 +1,4 @@
-package aula3.exercicio6;
+package aula3.excecoes.exercicio6;
 
 public class Livro {
     private int totalPaginas;
