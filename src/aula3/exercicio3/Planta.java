@@ -1,4 +1,4 @@
-package aula4.exercicio3;
+package aula3.exercicio3;
 
 public class Planta {
 	protected void fotossintese() {

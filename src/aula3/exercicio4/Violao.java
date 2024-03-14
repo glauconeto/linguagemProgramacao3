@@ -1,4 +1,4 @@
-package aula4.exercicio4;
+package aula3.exercicio4;
 
 public class Violao extends InstrumentoMusical {
 
